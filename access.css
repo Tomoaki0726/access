@@ -238,9 +238,9 @@ ul li#active a, ul li a:hover{
 
 
 .access_map{
-    width: 200px;  /* 横幅を200pxに */
+    width: 600px;  /* 横幅を600pxに */
     margin-left: 30px;
-    border: 1px solid #000000;
+    
         
 }
 
